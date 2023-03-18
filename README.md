@@ -1,6 +1,6 @@
 # KenzieHub
 
-Estou animado em compartilhar o mais recente projeto que desenvolvi usando algumas das tecnologias mais avançadas do mercado: TypeScript, ReactJS, Hookform/Resolvers, Radix-UI/React-Dialog, Radix-UI/React-Popover, Axios, React-Hook-Form, React-Icons, React-Router-DOM, React-Toastify, Styled-Components e Yup.
+Estou animado em compartilhar o mais recente projeto que desenvolvi usando algumas das tecnologias mais avançadas do mercado: JavaScript, ReactJS, Hookform/Resolvers, Radix-UI/React-Dialog, Radix-UI/React-Popover, Axios, React-Hook-Form, React-Icons, React-Router-DOM, React-Toastify, Styled-Components e Yup.
 
 Este site foi uma oportunidade de aprendizado incrível e estou feliz por ter usado essas tecnologias inovadoras para criar uma experiência única e agradável para os usuários. O uso do TypeScript e do ReactJS permitiu que o desenvolvimento fosse mais eficiente e produtivo, enquanto o React-Hook-Form, Radix-UI/React-Dialog e Radix-UI/React-Popover ajudaram a tornar a interação com o site mais intuitiva e fácil para os usuários.
 
