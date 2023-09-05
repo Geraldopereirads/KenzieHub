@@ -1,12 +1,15 @@
 # KenzieHub
 
-Estou animado em compartilhar o mais recente projeto que desenvolvi usando algumas das tecnologias mais avançadas do mercado: JavaScript, ReactJS, Hookform/Resolvers, Radix-UI/React-Dialog, Radix-UI/React-Popover, Axios, React-Hook-Form, React-Icons, React-Router-DOM, React-Toastify, Styled-Components e Yup.
+Uma das atividades notáveis que realizei no Módulo 3 na Kenzie Academy envolveu o desenvolvimento de um projeto empolgante. Para essa iniciativa, fizemos uso da API KenzieHub, que nos permitiu realizar diversas requisições, incluindo registro, login, cadastro, atualização e remoção de informações no perfil do usuário logado.
 
-Este site foi uma oportunidade de aprendizado incrível e estou feliz por ter usado essas tecnologias inovadoras para criar uma experiência única e agradável para os usuários. O uso do JavaScript e do ReactJS permitiu que o desenvolvimento fosse mais eficiente e produtivo, enquanto o React-Hook-Form, Radix-UI/React-Dialog e Radix-UI/React-Popover ajudaram a tornar a interação com o site mais intuitiva e fácil para os usuários.
+O projeto foi elaborado com um conjunto de tecnologias modernas e eficientes, demonstrando minha capacidade de trabalhar com diversas ferramentas da atualidade. Entre as tecnologias utilizadas, destaco JavaScript, que desempenhou um papel crucial no desenvolvimento da lógica do aplicativo, tornando-o dinâmico e interativo.
 
-A integração do Axios tornou o processo de conexão com os servidores externos ainda mais fácil, e o React-Icons e React-Toastify adicionaram um toque extra de personalização e aprimoramento da experiência geral do usuário.
+Além disso, para tornar a experiência do usuário ainda mais agradável e eficiente, incorporamos diversas bibliotecas e frameworks, como axios, styled-components, frame-motion, react-hook-form, yup, react-router-dom e toastify. Essas escolhas permitiram-nos criar uma aplicação com uma estilização excepcional, garantindo que a interface fosse responsiva, adequada tanto para smartphones quanto para desktops.
 
-Estou muito orgulhoso deste projeto e mal posso esperar para continuar aprendendo e explorando novas tecnologias que possam ser aplicadas em meus próximos projetos.
+No final, este projeto não apenas demonstrou minha habilidade em trabalhar com tecnologias modernas, mas também minha capacidade de criar soluções eficazes e atrativas para os usuários finais. Fiquei satisfeito com o resultado e ansioso para enfrentar novos desafios.
+
+
+Repositório GitHub: https://github.com/Geraldopereirads/KenzieHub
 
 Link do Vercel: https://kenzie-hub-geraldopereirads.vercel.app/
 
