@@ -1,15 +1,44 @@
 # KenzieHub
 
-Uma das atividades notáveis que realizei no Módulo 3 na Kenzie Academy envolveu o desenvolvimento de um projeto empolgante. Para essa iniciativa, fizemos uso da API KenzieHub, que nos permitiu realizar diversas requisições, incluindo registro, login, cadastro, atualização e remoção de informações no perfil do usuário logado.
+## 💡 Sobre o projeto
 
-O projeto foi elaborado com um conjunto de tecnologias modernas e eficientes, demonstrando minha capacidade de trabalhar com diversas ferramentas da atualidade. Entre as tecnologias utilizadas, destaco JavaScript, que desempenhou um papel crucial no desenvolvimento da lógica do aplicativo, tornando-o dinâmico e interativo.
+O KenzieHub é uma aplicação para cadastro, login e gerenciamento de tecnologias de usuários. Após o login, o usuário pode adicionar, editar e remover tecnologias do seu perfil.
 
-Além disso, para tornar a experiência do usuário ainda mais agradável e eficiente, incorporamos diversas bibliotecas e frameworks, como axios, styled-components, frame-motion, react-hook-form, yup, react-router-dom e toastify. Essas escolhas permitiram-nos criar uma aplicação com uma estilização excepcional, garantindo que a interface fosse responsiva, adequada tanto para smartphones quanto para desktops.
+Foram utilizadas boas práticas de código, componentização, gerenciamento de estado com Context API e consumo da API da KenzieHub.
 
-No final, este projeto não apenas demonstrou minha habilidade em trabalhar com tecnologias modernas, mas também minha capacidade de criar soluções eficazes e atrativas para os usuários finais. Fiquei satisfeito com o resultado e ansioso para enfrentar novos desafios.
+## 🚀 Funcionalidades
 
+- Cadastro de usuário com validações de nome, e-mail, senha e confirmação de senha
+- Login com validação de campos obrigatórios
+- Persistência de sessão com autologin
+- Dashboard protegida e acessível apenas para usuários autenticados
+- Listagem das tecnologias cadastradas
+- Cadastro de novas tecnologias
+- Edição e remoção de tecnologias existentes
+- Logout com limpeza de dados locais
 
-Repositório GitHub: https://github.com/Geraldopereirads/KenzieHub
+## 🛠️ Tecnologias utilizadas
+
+- React
+- React Router Dom
+- React Hook Form
+- Yup
+- Axios
+- Context API
+- Styled-components
+
+## 🧪 Validações e segurança
+
+- Todas as requisições protegidas enviam o token via header `Authorization`
+- O autologin verifica a validade do token armazenado no `localStorage`
+- As rotas são protegidas usando `Outlet` do React Router
+
+## 📌 Como rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/kenziehub.git
+
 
 Link do Vercel: https://kenzie-hub-geraldopereirads.vercel.app/
 
