@@ -40,9 +40,6 @@ Foram utilizadas boas práticas de código, componentização, gerenciamento de 
    git clone https://github.com/seu-usuario/kenziehub.git
 
 
-Link do Vercel: https://kenzie-hub-geraldopereirads.vercel.app/
-
-
 ![login](https://user-images.githubusercontent.com/110185110/225340325-e3abe226-7c02-4ebb-9fbf-8c554ff14353.PNG)
 ![Cadastro](https://user-images.githubusercontent.com/110185110/225340349-aea16829-40fb-483a-b197-347e3ecd4b24.PNG)
 ![Homepage](https://user-images.githubusercontent.com/110185110/225340410-c555a49b-66de-4427-a6ca-f52c2dc291d9.PNG)
